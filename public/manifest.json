@@ -1,0 +1,9 @@
+{
+  "name": "sjb-wx",
+  "short_name": "sjb-wx",
+  "icons": [],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
+}
